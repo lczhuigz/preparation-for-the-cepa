@@ -21,6 +21,7 @@ int main(int argc, char ** argv){
 
 
 int isPrime(int n){
+
     if (n <= 1) return 0;  // 1和负数不是素数
     if (n == 2) return 1;  // 2是素数
     if (n % 2 == 0) return 0;  // 排除偶数（除了2）
@@ -31,5 +32,7 @@ int isPrime(int n){
             return 0;
         }
     }
+
+    
     return 1;
 }

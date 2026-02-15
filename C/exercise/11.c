@@ -9,6 +9,7 @@
 
 
 int main(int argc, char ** argv){
+    
     int i;
     for(i = 0; i < line; i ++){
         for(int space = 0; space < line - i; space ++){
