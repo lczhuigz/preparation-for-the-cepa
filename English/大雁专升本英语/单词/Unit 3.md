@@ -187,7 +187,7 @@ event				--n 事件；大事；活动
 eventually			--adv 终于；最后
 ```
 
-*tips： `eventually` == `at last`*
+*tips：	`eventually`	 ==	 `at last`*
 
 ```English
 prevent				--vt （from）预防；阻止

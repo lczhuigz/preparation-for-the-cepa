@@ -5,9 +5,8 @@ act     	--n	行动；举动
 			--v 做事；行动
 
 短语：act on 		按照...做
+eg: The killing was the act of a madman.	译：这起凶杀案是一个疯子所为
 ```
-
-*eg: The killing was the act of a madman.	译：这起凶杀案是一个疯子所为*
 
 ```English
 action  	--n 行为；行动；功能；作用

@@ -71,7 +71,7 @@ grateful				--adj 感激的；感谢的
 派生：gratitude		--n 感激
 ```
 
-*tips： `grateful` = `thankful`*
+*tips：	`grateful`	=	`thankful`*
 
 ```English
 grave					--n 坟墓；墓穴
@@ -139,7 +139,7 @@ reply					--v 回答；答复；回应；做出反应
 短语：in reply to		回答；回复
 ```
 
-*tips： `reply`= `answer`*
+*tips：	`reply`	= 	`answer`*
 
 ```English
 respond					--v （口头或书面）回答；回应；做出反应；响应

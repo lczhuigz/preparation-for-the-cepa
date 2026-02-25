@@ -50,7 +50,7 @@ mature			--adj 成熟的；成年的
 扩展：immature		--adj 未发育完全的；幼稚的
 ```
 
-*tips：`im` == `in` 表否定*
+*tips：	`im`	 ==	`in` 表否定*
 
 ```English
 item			--n 项目；条款；一件商品；一条（新闻）
