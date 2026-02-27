@@ -217,3 +217,65 @@ spite						--n 恶意；怨恨
 eg：In spite of the rain, we went out.   尽管下雨，我们还是出去了。
 ```
 
+```English
+spit						--v 吐（唾沫）
+							--n 唾液
+```
+
+*tips：过去式 `spat`（英）/ `spit`（美）*
+
+```English
+split						--v 分裂；分开；撕裂
+							--adj 劈开的
+```
+
+*tips：动词三态相同：`split` - `split` - `split`*
+
+```English
+swear						--v 发誓；宣誓；诅咒
+```
+
+*tips：`swear`过去式 `swore`，过去分词 `sworn`*
+
+```English
+spoil						--vt 损坏；宠坏
+```
+
+*tips：`spoil` 指“破坏（兴致/外观）”或“宠坏（孩子）”，程度比 `destroy` 轻*
+
+```English
+soil						--n 泥土；土壤
+							--v 弄脏；（使）变脏
+```
+
+```English
+boil						--v 煮沸；发怒
+```
+
+```English
+spread						--v 展开；打开；散布
+							--n 传播；散布；广泛 
+```
+
+```English
+widespread					--adj 分布广泛的；普遍的
+```
+
+```English
+stream						--n 溪流
+							--v 流动；涌动
+							
+短语：a stream of water   一股水流
+     stream of people    人流
+```
+
+```English
+scream						--v 尖叫；高声喊叫
+            				--n 尖叫声
+```
+
+```English
+sweep						--v 打扫；清扫；扫去；清除
+							--n 扫；打扫；清扫
+```
+
