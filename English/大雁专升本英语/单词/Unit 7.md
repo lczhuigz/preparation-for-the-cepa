@@ -165,3 +165,102 @@ imagine						--v 想象；设想；猜测
 	 imaginary				  --adj 想象中的；幻想的；虚构的
 ```
 
+```English
+mend						--vt 修补；缝补
+```
+
+*tips：`mend` 多指缝补衣物，`repair` 多指修理机器*
+
+```English
+cottage						--n 小屋；村舍
+```
+
+```English
+cotton						--n 棉花；棉布
+```
+
+```English
+wool						--n 羊毛
+```
+
+```English
+silk						--n 丝绸
+```
+
+```English
+credit      				--n 信用；信誉；赞扬；赞誉；贷款
+           					--vt 相信；把...归功于
+```
+
+```English
+evil						--n 邪恶；罪恶；祸害
+            				--adj 邪恶的；有害的
+```
+
+```English
+deliver						--vt 递送；发表；表达；移交；交付
+```
+
+```English
+mask						--n 面具，口罩；伪装
+							--vt 用面具遮住，遮盖
+							
+短语：wear a mask   		戴口罩；戴面具
+```
+
+```English
+screen						--n 屏幕；帘
+							--vt 掩蔽；遮
+							
+短语：on screen   			在屏幕上
+```
+
+```English
+cover       				--n 覆盖物；掩护；封面
+            				--vt 盖；覆盖；包括；包含（常与 with 连用）
+```
+
+```English
+discover					--vt 发现
+
+派生：discovery				--n 发现；发现的东西
+```
+
+*tips：`dis`-（分开）+ `cover`（盖）→ 揭开盖子 → 发现*
+
+​	  *`re`-（再次）+ `cover`（盖）→ 重新盖上 → 恢复*
+
+```English
+recover						--v 恢复健康；康复；痊愈；复原；恢复常态
+
+派生：recovery					--n 恢复；痊愈；复苏
+```
+
+```English
+enthusiasm					--n 狂热；热心；热衷的事物
+
+派生：enthusiastic				--adj 狂热的；热情的
+```
+
+*tips：`enthusiasm`：对某事的浓厚兴趣/热衷*
+
+​	  *`passion`：强烈的感情/激情（常指爱情或极度热爱）*
+
+```English
+passion						--n 激情；热情
+
+派生：passionate				--adj 易动情的；热烈的；激昂的
+```
+
+```English
+error						--n 错误；差错；谬误
+```
+
+```English
+fault						--n 过错；缺点；毛病
+```
+
+```English
+trial       				--n 试验；试用；审判
+            				--v （罕用）测试
+```
