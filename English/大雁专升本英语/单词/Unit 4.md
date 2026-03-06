@@ -58,7 +58,7 @@ shortcoming				--n 缺点；缺陷
 envy					--n 羡慕；忌妒
 						--v 羡慕；忌妒
 						
-派生：envious		--adj 羡慕的；妒忌的
+派生：envious				--adj 羡慕的；妒忌的
 ```
 
 ```English
@@ -68,7 +68,7 @@ jealous					--adj 吃醋的；妒忌的；猜疑的；提防的
 ```English
 grateful				--adj 感激的；感谢的
 
-派生：gratitude		--n 感激
+派生：gratitude			--n 感激
 ```
 
 *tips：	`grateful`	=	`thankful`*
@@ -136,7 +136,7 @@ cube					--n 立方体；立方形；立方
 reply					--v 回答；答复；回应；做出反应
 						--n 回答；答复
 						
-短语：in reply to		回答；回复
+短语：in reply to			回答；回复
 ```
 
 *tips：	`reply`	= 	`answer`*
@@ -145,14 +145,14 @@ reply					--v 回答；答复；回应；做出反应
 respond					--v （口头或书面）回答；回应；做出反应；响应
 
 短语：respond to			对...做出反应；响应
-派生：response				n 回答；响应；反应
+派生：response				--n 回答；响应；反应
 ```
 
 ```English
 responsible				--adj 有责任；负责；承担义务
 
-派生：responsibility			n 负责；责任
-短语：be responsible for			对...负责
+派生：responsibility			--n 负责；责任
+短语：be responsible for		对...负责
 ```
 
 ```English
@@ -188,7 +188,7 @@ grace					--n 优美；优雅
 compete					--vi 参加比赛；竞赛
 
 派生：competitor			--n 对手；竞争者
-	competition				--n 竞争；竞赛
+派生：competition			--n 竞争；竞赛
 ```
 
 ```English
@@ -200,7 +200,7 @@ complete				--adj 全部的；完成的；完全的
 compare					--v 比较；相比；比喻
 
 短语：compare ... to ...		将...比作
-	compare with			与...相比较
+短语：compare with				与...相比较
 ```
 
 ```English

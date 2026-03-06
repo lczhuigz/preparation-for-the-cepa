@@ -31,7 +31,7 @@ threat						--n 恐吓；威胁；凶兆
 frighten					--v 使惊吓；使惊恐
 
 派生：frightened				--adj 惊吓的；受惊的
-	 frightening			  --adj 引起恐惧的；使惊恐的；骇人的
+派生：frightening			  	--adj 引起恐惧的；使惊恐的；骇人的
 ```
 
 ```English
@@ -105,7 +105,7 @@ brave						--adj 勇敢的
 encourage					--v 支持；鼓励；激励；刺激
 
 派生：encouragement			--n 鼓舞；起激励作用的事物
-	 discourage				  --v 使气馁；使灰心
+派生：discourage				--v 使气馁；使灰心
 ```
 
 *tips：`en`- 表示“使”，dis- 表示“否定”；`encourage`（鼓励）→ `discourage`（使泄气）*
@@ -122,7 +122,7 @@ postage						--n 邮费；邮资
 manage						--v 完成（困难的事）；能解决（问题）；管理
 
 派生：manager					--n 经理；管理人
-	 management				  --n 经营；管理；经营者；（成功的）处理手段
+派生：management				--n 经营；管理；经营者；（成功的）处理手段
 ```
 
 ```English
@@ -155,14 +155,14 @@ damage						--vt 损害；毁坏
 image						--n 形象；印象；声誉
 
 派生：imaging					--n 成像
-	 imagery    			  --n 意象；图像
+派生：imagery    			  	--n 意象；图像
 ```
 
 ```English
 imagine						--v 想象；设想；猜测
 
 扩展：imagination				--n 想象力；想象
-	 imaginary				  --adj 想象中的；幻想的；虚构的
+扩展：imaginary				--adj 想象中的；幻想的；虚构的
 ```
 
 ```English
@@ -205,14 +205,14 @@ deliver						--vt 递送；发表；表达；移交；交付
 mask						--n 面具，口罩；伪装
 							--vt 用面具遮住，遮盖
 							
-短语：wear a mask   		戴口罩；戴面具
+短语：wear a mask   			戴口罩；戴面具
 ```
 
 ```English
 screen						--n 屏幕；帘
 							--vt 掩蔽；遮
 							
-短语：on screen   			在屏幕上
+短语：on screen   				在屏幕上
 ```
 
 ```English

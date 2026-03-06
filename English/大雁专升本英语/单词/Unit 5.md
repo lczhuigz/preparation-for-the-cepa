@@ -194,7 +194,7 @@ amount					--n 数量
 ```English
 beg 					--v 请求；乞求
 
-派生：beggar		--n 乞丐
+派生：beggar				--n 乞丐
 ```
 
 ```English

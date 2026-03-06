@@ -19,28 +19,30 @@ torch							--n 手电筒；火把；火炬
 ```English
 accomplish						--vt 完成；达成；实现
 
-派生:accomplishment				--n 成就；完成
-	accomplished				  --adj 完成的；熟练的；技艺高超的
+派生：accomplishment				--n 成就；完成
+派生：accomplished				  	--adj 完成的；熟练的；技艺高超的
 ```
 
 ```English
 achieve							--v （凭长期努力）达到（某目标、地位、标准）
 
-派生:achievement				  --n 成就；功绩；达到
+派生:achievement				  	--n 成就；功绩；达到
 ```
 
 ```English
 fulfill							--v 实现；履行
 
-派生:fulfillment				   --n 满足感；实现
-	fulfilling					--adj 令人满意的
-短语:to fulfil your dream.			实现梦想
-	fulfill one's social obligation.			履行社会责任
+派生：fulfillment				   	--n 满足感；实现
+派生：fulfilling					--adj 令人满意的
+短语：to fulfil your dream.					实现梦想
+短语：fulfill one's social obligation.			履行社会责任
 	 
 ```
 
 ```English
-occupy							--vt 占领；占据（城镇、国家等）；占用；填满（空间、时间、注意力、心思）；使用（房屋、建筑）；居住；占据（职位）
+occupy							--vt 占领；占据（城镇、国家等）
+									占用；填满（空间、时间、注意力、心思）
+									使用（房屋、建筑）；居住；占据（职位）
 ```
 
 ```English
@@ -48,13 +50,13 @@ equal							--n 相等物
 								--v 与...相等
 								--adj 相同的
 								
-派生：equality					--n 平等；相等；数学等式
+派生：equality						--n 平等；相等；数学等式
 ```
 
 ```English
 adequate						--adj 充分的；足够的；胜任的
 
-派生：inadequate				--adj 不充足的；不够的
+派生：inadequate					--adj 不充足的；不够的
 ```
 
 ```English
@@ -165,7 +167,8 @@ philosophy						--n 哲学；哲理
 ```
 
 ```English
-schedule						--n 计划（表）；进度表；（公共汽车、火车等的）时间表；（价目、费用等的）清单
+schedule						--n 计划（表）；进度表；（公共汽车、火车等的）时间表
+									（价目、费用等的）清单
 								--v 安排；预定
 ```
 
@@ -195,7 +198,7 @@ rise							--n 上涨；增高
 ```English
 arise							--v 出现
 
-短语：arise from				由...而引起
+短语：arise from					由...而引起
 ```
 
 ```English
@@ -244,8 +247,8 @@ journey							--n 旅行；旅程
 tour							--n 旅程；旅游业；巡回比赛（或演出等）；巡视
 								--v 在...旅游；在...巡回演出（或做宣传广告等）
 								
-扩展：tourist					--n 旅游者；观光者；游览者
-	the tourist industry/sector				旅游业/部门
+扩展：tourist						--n 旅游者；观光者；游览者
+短语：the tourist industry/sector				旅游业/部门
 ```
 
 ```English
@@ -266,7 +269,7 @@ sail							--v 航行（于）
 								--vi 启航；开船
 								--n 帆；蓬；航行
 								
-扩展：sailor					--n 水手；船员
+扩展：sailor						--n 水手；船员
 ```
 
 ```English
@@ -299,8 +302,8 @@ present							--n 礼物；目前
 								--adj 现存的；当前的；出现的；在场的
 								--v 呈现；赠送
 								
-短语：at present				目前；现在
-派生：presence					--n 在场；出席；存在
+短语：at present					目前；现在
+派生：presence						--n 在场；出席；存在
 ```
 
 ```English
@@ -311,14 +314,14 @@ peasant							--n 农民
 absent							--adj 缺席的；不存在的
 
 派生：absent-minded				--adj 心不在焉的
-	absence							--n 缺席
+派生：absence						--n 缺席
 ```
 
 ```English
 represent						--v 代表；象征；描绘；展示
 
 扩展：representative				--n 代表
-								--adj 典型的
+								  --adj 典型的
 ```
 
 ```English

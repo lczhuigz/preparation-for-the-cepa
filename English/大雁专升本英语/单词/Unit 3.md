@@ -7,7 +7,7 @@ basis				--n 基础；基本；准则；方式
 ```English
 basic				--adj 基本的；初级的；必需的
 
-派生：basically	--adv 大体上
+派生：basically		--adv 大体上
 ```
 
 ```English
@@ -88,7 +88,7 @@ forehead			--n 前额
 ```English
 ahead				--adv 在前；向前；提前
 
-短语：ahead of		提前
+短语：ahead of			提前
 ```
 
 ```English
@@ -118,7 +118,7 @@ width				--n 宽阔；广阔；宽度
 ```English
 wide 				--adj 宽的；广阔的；广泛的
 
-派生：widely		--adv 广泛地
+派生：widely			--adv 广泛地
 ```
 
 ```English
@@ -274,7 +274,7 @@ adjust				--vt 调整；调节；使适合；使适应
 justify				--v 证明...是正当的；为...辩护
 
 派生：unjustified			--adj 不公正的；无正当理由的
-     justification 		 --n 正当理由；辩护
+派生：justification 		--n 正当理由；辩护
 ```
 
 ```English

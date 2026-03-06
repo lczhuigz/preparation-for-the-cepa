@@ -89,7 +89,7 @@ content			--n 容量；内容
 satisfy			--v 使满意；使满足；满足（要求）
 
 派生：satisfactory		--adj 令人满意的；够好的
-	satisfaction		--n 满足；满意；令人满意的事物
+派生：satisfaction		--n 满足；满意；令人满意的事物
 短语：be satisfied with	对...感到满意
 ```
 
@@ -111,8 +111,8 @@ classify		--v 将...分类；将...归类
 ```English
 clarify			--v 澄清；阐明
 
-派生:clarification	--n 澄清；净化
-	clarity			 --n 清楚；明晰
+派生：clarification	--n 澄清；净化
+派生：clarity			--n 清楚；明晰
 ```
 
 ```English
