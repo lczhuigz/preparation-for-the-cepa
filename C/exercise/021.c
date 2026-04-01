@@ -12,7 +12,6 @@ int main(int argc, char ** argv){
 
     // //1.用while循环遍历逐一替换
     // int i = 0;
-
     // while(src_string[i] != '\0'){
     //     dest_string[i] = src_string[i];
     //     i ++;
